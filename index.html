@@ -7,6 +7,6 @@
   <title>Introduction to the DOM Lab</title>
 </head>
 <body>
-  <!--All our work for this lesson will go here-->
+  <h1>My HTML adventure</h1>
 </body>
 </html>
